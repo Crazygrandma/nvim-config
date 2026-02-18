@@ -2,7 +2,7 @@
 
 set -e
 
-REPO_URL="https://github.com/YOUR_USERNAME/nvim-config.git"
+REPO_URL="https://github.com/Crazygrandma/nvim-config.git"
 NVIM_DIR="$HOME/.config/nvim"
 
 # Backup existing config if it exists
