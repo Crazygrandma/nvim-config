@@ -1,4 +1,11 @@
 require("config.options")
 require("config.keybinds")
 require("config.lazy")
+require("config.autocmd")
 require("lsp")
+vim.filetype.add({
+  extension = {
+    c = "c",
+    h = "c",
+  },
+})

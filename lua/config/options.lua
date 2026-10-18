@@ -26,7 +26,6 @@ set.colorcolumn = "80"
 
 -- clipboard
 set.clipboard:append("unnamedplus")
-
 -- backspace
 set.backspace = "indent,eol,start"
 
